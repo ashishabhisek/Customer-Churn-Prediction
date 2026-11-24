@@ -69,4 +69,4 @@ The application is deployed using **Streamlit**, allowing users to:
 
 This project demonstrates how Machine Learning and Explainable AI can help businesses identify potential customer churn, understand customer behavior, and develop data-driven retention strategies.
 
-**Goal: Predict customer churn and turn insights into better retention decisions.**
+**Goal: Predict customer churn and turn insights into better retention decisions..**
